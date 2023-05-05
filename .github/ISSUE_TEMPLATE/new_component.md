@@ -12,9 +12,9 @@ project:
 ### TODO:
 
 - [ ] This PR does not include/implement any components that shadow (i.e. act in the same way as) components in the [tango-svelte-library](https://github.com/tangopay/tango-svelte-library)
-- [x] This PR has all the information required filled out below
+- [ ] This PR has all the information required filled out below
 - [ ] This PR has examples of the new component added to `/src/routes/[new-component]/+page.svelte`
-- [x] This PR has had it's git diff reviewed by the author
+- [ ] This PR has had it's git diff reviewed by the author
 - [ ] This PR has had it's git diff reviewed by a reviewer
 
 ### Figma link to the component or it's parent component
@@ -43,7 +43,7 @@ Describe how the newly added component fufills the missing capabilitie(s) listed
 
 ### What dependencies does the new component have?
 
-Describe all the dependencies that your newly created component relies on.
+Describe all the dependencies that your newly created component relies on, both internal and external
 
 ```
 - numeral
