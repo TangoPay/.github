@@ -13,9 +13,6 @@ project:
 
 - [ ] This PR does not include/implement any components that shadow (i.e. act in the same way as) components in the [tango-svelte-library](https://github.com/tangopay/tango-svelte-library)
 - [ ] This PR has all the information required filled out below
-- [ ] This PR has examples of the new component added to `/src/routes/[new-component]/+page.svelte`
-- [ ] This PR has had it's git diff reviewed by the author
-- [ ] This PR has had it's git diff reviewed by a reviewer
 
 ### Figma link to the component or it's parent component
 
